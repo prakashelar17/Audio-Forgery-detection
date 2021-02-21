@@ -4,6 +4,5 @@ The proposed method performs audio forgery detection by inspecting the content o
 
 
 folder details:
-1)file database_creation_programes contains code to create database i.e copy-move,insertion,not-tampered,slicing.
-2)file audio_mfcc contains code of mfccs given as input to deep learning models (ANN ,CNN, LSTM). These file also contain code to create json file which contains mfccs of all audios
-3)file audio_stft contains code of stft given as input to deep learning models (ANN ,CNN, LSTM). These file also contain code to create json file which contains stft of all audios
+1)file audio_mfcc contains code of mfccs given as input to deep learning models (ANN ,CNN, LSTM). These file also contain code to create json file which contains mfccs of all audios
+2)file audio_stft contains code of stft given as input to deep learning models (ANN ,CNN, LSTM). These file also contain code to create json file which contains stft of all audios
